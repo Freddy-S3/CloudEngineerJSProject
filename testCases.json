@@ -6,23 +6,28 @@
         "amount_in_cad": 100.1234
       },
       {
-        "date": "2023-01-21",
-        "currency": "U.S. dollar, daily average",
+        "date": "2023-01-01",
+        "currency": "Australian dollar, daily average",
         "amount_in_cad": 100.1234
       },
       {
-        "date": "2123-01-21",
-        "currency": "U.S. dollar, daily average",
+        "date": "2024-01-03",
+        "currency": "Australian dollar, daily average",
         "amount_in_cad": 100.1234
       },
       {
-        "date": "2023-01-21",
-        "currency": "U.SS. dollar, daily average",
+        "date": "2023-01-03",
+        "currency": "Aussie dollar, daily average",
         "amount_in_cad": 100.1234
       },
       {
-        "date": "2023-01-21",
-        "currency": "U.S. dollar, daily average",
+        "date": "2023-01-03",
+        "currency": "Australian dollar, daily average",
+        "amount_in_cad": -100.1234
+      },
+      {
+        "date": "2023-01-03",
+        "currency": "Australian dollar, daily average",
         "amount_in_cad": "100.1234"
       }
   ]
